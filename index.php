@@ -48,3 +48,4 @@ function chargeAPI($api_url, $server_key, $request_body){
 	);
 	return $result;
 }
+?>
